@@ -12,14 +12,20 @@ Who is this for? If you just want to [overclock](http://www.pcworld.com/article/
     cd raspberry-pi-overclocking
 
 2. Edit `config_overclock.txt` with your overclocking settings. I took mine from the [suggested Nintendo 64 RetroPie optimization settings](https://github.com/RetroPie/RetroPie-Setup/wiki/Optimization-for-Nintendo-64)
+
 3. To enable overclocking, issue the command 
 
-    ./overclock.sh
+```shell
+./overclock.sh
+```
 
 This will copy `config_overclock.txt` to `/boot/config.txt` and reboot the system
+
 4. To revert to factory default settings after you are done overclocking, issue the command 
 
-    ./normal.sh
+```shell
+./normal.sh
+```
 
 # References
 
