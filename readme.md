@@ -9,7 +9,9 @@ Who is this for? If you just want to [overclock](http://www.pcworld.com/article/
 
 1. Clone this repo and `cd` to the cloned dir:
 
-    cd raspberry-pi-overclocking
+```shell
+cd raspberry-pi-overclocking
+```
 
 2. Edit `config_overclock.txt` with your overclocking settings. I took mine from the [suggested Nintendo 64 RetroPie optimization settings](https://github.com/RetroPie/RetroPie-Setup/wiki/Optimization-for-Nintendo-64)
 
