@@ -7,16 +7,16 @@
 #
 
 # creates backup config
-if [ -f "/home/pi/config.txt.bak" ];
+if [ -f "./config.txt.bak" ];
 then
    echo "already backed up"
 else
    echo "backing up" 
-   cp /boot/config.txt ~/config.txt.bak 
+   cp /boot/config.txt ./config.txt.bak 
 fi
 
 # applies overclocked settings
-sudo cp ~/config_overclock.txt /boot/config.txt
+sudo cp ./config_overclock.txt /boot/config.txt
 echo "Overclocked settings updated, rebooting"
 echo
 echo "To go back to factory settings, run normal.sh"

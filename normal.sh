@@ -5,7 +5,7 @@
 #
 
 # applying standard, factory settings
-sudo cp ~/config_std.txt /boot/config.txt
+sudo cp ./config_std.txt /boot/config.txt
 echo "Applied factory settings, now rebooting"
 echo
 
