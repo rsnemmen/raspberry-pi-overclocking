@@ -7,7 +7,7 @@ Who is this for? If you just want to [overclock](http://www.pcworld.com/article/
 
 # Quickstart
 
-![Terminal output generated with `ttygif`](./ttygif.gif)
+![Terminal output generated with `ttygif`](./tty.gif)
 
 1. Clone this repo and `cd` to the cloned dir:
 
