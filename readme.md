@@ -7,6 +7,8 @@ Who is this for? If you just want to [overclock](http://www.pcworld.com/article/
 
 # Quickstart
 
+![Terminal output generated with `ttygif`](./ttygif.gif)
+
 1. Clone this repo and `cd` to the cloned dir:
 
 ```shell
@@ -28,6 +30,7 @@ This will copy `config_overclock.txt` to `/boot/config.txt` and reboot the syste
 ```shell
 ./normal.sh
 ```
+
 
 # References
 
