@@ -1,9 +1,16 @@
 Easy Raspberry Pi overclocking
 ===============================
 
-I created these scripts for easier overclocking of a [Raspberry Pi](https://www.raspberrypi.org). 
+I created these scripts for easier overclocking of a [Raspberry Pi](https://www.raspberrypi.org) 3. 
 
 Who is this for? If you just want to [overclock](http://www.pcworld.com/article/198882/overclocking_for_newbies.html) your system for one session (say, for faster emulation) and then want to revert to the previous (standard) CPU settings easily after you are done, this is for you.
+
+---
+**WARNING⚠️**
+
+This script was only tested on a Raspberry Pi 3. Please proceed with caution. The developer takes no responsability for any damage caused by using this script on your hardware. 
+
+---
 
 # Quickstart
 
